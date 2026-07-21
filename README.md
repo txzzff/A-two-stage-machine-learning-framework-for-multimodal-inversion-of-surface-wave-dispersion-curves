@@ -1,1 +1,1 @@
-# Database can be found on 
+# A two-stage machine learning framework for multimodal inversion of surface-wave dispersion curves
