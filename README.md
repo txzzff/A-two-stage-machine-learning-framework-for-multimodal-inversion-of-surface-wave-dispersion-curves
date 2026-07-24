@@ -47,4 +47,4 @@ Shear-wave velocity model
 
 The database used in this study can be downloaded from the following link:
 
-[[Download the database](INSERT_DATABASE_LINK_HERE)](https://zenodo.org/records/21473091)
+(https://zenodo.org/records/21473091)
