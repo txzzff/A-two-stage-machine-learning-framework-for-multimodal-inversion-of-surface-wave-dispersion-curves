@@ -43,8 +43,8 @@ Stage 2: Multimodal dispersion inversion
 Shear-wave velocity model
 ```
 
-## Database
+## Database and Codes
 
-The database used in this study can be downloaded from the following link:
+The database and some of the codes used in this study can be downloaded from the following link:
 
 (https://zenodo.org/records/21473091)
